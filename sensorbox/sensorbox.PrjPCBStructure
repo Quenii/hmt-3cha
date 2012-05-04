@@ -1,0 +1,5 @@
+Record=SheetSymbol|SourceDocument=mikrokontroler.SchDoc|Designator=supply_kbd_lcd|SchDesignator=supply_kbd_lcd|FileName=supply_kbd_lcd.SchDoc|SymbolType=Normal|RawFileName=supply_kbd_lcd.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=mikrokontroler.SchDoc|Designator=U_sensorbox_1|SchDesignator=U_sensorbox_1|FileName=sensorbox_1.SchDoc|SymbolType=Normal|RawFileName=sensorbox_1.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=sensorbox_1.SchDoc|Designator=alt modem|SchDesignator=alt modem|FileName=alt_modem.SchDoc|SymbolType=Normal|RawFileName=alt_modem.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=sensorbox_1.SchDoc|Designator=U_rj50|SchDesignator=U_rj50|FileName=rj50.SchDoc|SymbolType=Normal|RawFileName=rj50.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=TopLevelDocument|FileName=mikrokontroler.SchDoc
